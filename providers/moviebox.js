@@ -75,7 +75,7 @@ var HOST_POOL = [
 ];
 var KEY_B64_DEFAULT = "NzZpUmwwN3MweFNOOWpxbUVXQXQ3OUVCSlp1bElRSXNWNjRGWnIyTw==";
 var KEY_B64_ALT = "WHFuMm5uTzQxL0w5Mm8xaXVYaFNMSFRiWHZZNFo1Wlo2Mm04bVNMQQ==";
-var TMDB_API_KEY = "1865f43a0549ca50d341dd9ab8b29f49";
+var TMDB_API_KEY = "e5810dd2dc8b3a95bc148820dca304b0";
 var TMDB_BASE_URL = "https://api.themoviedb.org/3";
 var BRAND_MODELS = {
   "Samsung": ["SM-S918B", "SM-A528B", "SM-M336B"],
